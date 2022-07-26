@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "edu";
+  src: url("../type/EduTASBeginner-VariableFont_wght.woff") format("woff");
+}
+
+html,
+body{
+    font-family: "edu";
+        
+}
